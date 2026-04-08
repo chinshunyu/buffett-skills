@@ -60,7 +60,13 @@ npx skills add <your-github-user>/buffett-perspective
 
 ### Option 2: Local usage
 
-Place this folder under your local skills path so `SKILL.md` is discoverable by your toolchain.
+Place this folder under your local skills path.
+Use the skill file that matches your language:
+- `SKILL_EN.md` (English)
+- `SKILL_CN.md` (Chinese)
+- `SKILL_JA.md` (Japanese)
+
+If your toolchain requires the filename `SKILL.md`, rename or copy the target file to `SKILL.md` before loading.
 
 ---
 

@@ -60,7 +60,13 @@ npx skills add <your-github-user>/buffett-perspective
 
 ### 方式2：本地使用
 
-将本目录放到本地技能目录（按你的工具链要求），确保 `SKILL.md` 可被发现即可。
+将本目录放到本地技能目录（按你的工具链要求）。
+根据语言选择对应文件：
+- `SKILL_CN.md`（中文）
+- `SKILL_EN.md`（英文）
+- `SKILL_JA.md`（日文）
+
+如果你的工具链强制要求文件名为 `SKILL.md`，请将目标语言文件复制或重命名为 `SKILL.md` 后再加载。
 
 ---
 

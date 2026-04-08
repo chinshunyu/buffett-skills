@@ -63,7 +63,13 @@ npx skills add <your-github-user>/buffett-perspective
 
 ### 方法2: ローカルで利用
 
-このフォルダをローカルの skills ディレクトリに配置し、`SKILL.md` がツールから参照できる状態にしてください。
+このフォルダをローカルの skills ディレクトリに配置してください。
+言語に応じて以下のファイルを使用します。
+- `SKILL_EN.md`（英語）
+- `SKILL_CN.md`（中国語）
+- `SKILL_JA.md`（日本語）
+
+ツール側でファイル名 `SKILL.md` が必須の場合は、対象言語ファイルを `SKILL.md` にコピーまたはリネームしてから読み込んでください。
 
 ---
 
