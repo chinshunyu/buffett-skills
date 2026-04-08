@@ -103,15 +103,6 @@ Place this folder under your local skills path so `SKILL.md` is discoverable by 
 
 All three keep the same structure and methodology, with language-localized phrasing.
 
----
-
-## Sources
-
-Source index: [`references/sources.md`](references/sources.md)
-
-Research folder: [`references/research/`](references/research/)
-
-Reference site: <https://buffett-letters-eir.pages.dev/>
 
 ---
 
@@ -124,16 +115,7 @@ buffett-perspective/
 ├── README_JA.md
 ├── SKILL.md
 ├── SKILL_EN.md
-├── SKILL_JA.md
-└── references/
-    ├── sources.md
-    └── research/
-        ├── 01-writings.md
-        ├── 02-conversations.md
-        ├── 03-expression-dna.md
-        ├── 04-external-views.md
-        ├── 05-decisions.md
-        └── 06-timeline.md
+└── SKILL_JA.md
 ```
 
 ---

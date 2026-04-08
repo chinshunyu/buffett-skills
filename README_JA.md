@@ -106,15 +106,6 @@ npx skills add <your-github-user>/buffett-perspective
 
 3ファイルは同じ構造と方法論を維持し、言語表現のみローカライズしています。
 
----
-
-## ソース
-
-ソース索引: [`references/sources.md`](references/sources.md)
-
-調査ディレクトリ: [`references/research/`](references/research/)
-
-参照サイト: <https://buffett-letters-eir.pages.dev/>
 
 ---
 
@@ -127,16 +118,7 @@ buffett-perspective/
 ├── README_JA.md
 ├── SKILL.md
 ├── SKILL_EN.md
-├── SKILL_JA.md
-└── references/
-    ├── sources.md
-    └── research/
-        ├── 01-writings.md
-        ├── 02-conversations.md
-        ├── 03-expression-dna.md
-        ├── 04-external-views.md
-        ├── 05-decisions.md
-        └── 06-timeline.md
+└── SKILL_JA.md
 ```
 
 ---
