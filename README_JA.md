@@ -4,6 +4,8 @@
 
 > *"Price is what you pay. Value is what you get."*
 
+---
+
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
@@ -13,12 +15,9 @@
 
 <br>
 
-中文 · [README.md](README.md)  
-English · [README_EN.md](README_EN.md)
+[English](README_EN.md) [中文](README.md)  
 
-Skill (中文) · [SKILL.md](SKILL.md)  
-Skill (English) · [SKILL_EN.md](SKILL_EN.md)  
-Skill (日本語) · [SKILL_JA.md](SKILL_JA.md)
+
 
 </div>
 
